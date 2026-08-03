@@ -1,0 +1,11 @@
+OrderID,Customer,Region,Product,Quantity,Price
+1,Alice,East,Widget,10.0,2.5
+2,Bob,West,Gadget,5.0,15.0
+3,Charlie,East,Widget,8.0,2.5
+4,Alice,East,Gizmo,3.0,7.0
+5,Dave,South,Widget,,2.5
+6,Bob,West,Gadget,7.0,15.0
+7,Eve,North,Gizmo,12.0,7.0
+8,Charlie,East,Gadget,4.0,15.0
+9,Alice,West,Widget,6.0,2.5
+10,Dave,South,Gizmo,9.0,7.0
